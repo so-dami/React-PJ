@@ -5,15 +5,15 @@ const artist_data=[
         한글이름: "이주빈",
         영어이름: "lee joo been",
         생년월일: "18 September 1989",
-        src1: "../../images/artist/main1.jpg",
-        src2: "../../images/artist/main1-1.jpg",
-        src3: "../../images/artist/web1.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main1.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main1-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web1.jpg",
         photo: [
-            "../../images/photo/1-1.jpg",
-            "../../images/photo/1-2.jpg",
-            "../../images/photo/1-3.jpg",
-            "../../images/photo/1-4.jpg",
-            "../../images/photo/1-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/1-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/1-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/1-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/1-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/1-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/hellobeen/",
         상세정보: `
@@ -27,15 +27,15 @@ const artist_data=[
         한글이름: "박진주",
         영어이름: "park jin joo",
         생년월일: "24 December 1988",
-        src1: "../../images/artist/main2.jpg",
-        src2: "../../images/artist/main2-1.jpg",
-        src3: "../../images/artist/web2.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main2.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main2-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web2.jpg",
         photo: [
-            "../../images/photo/2-1.jpg",
-            "../../images/photo/2-2.jpg",
-            "../../images/photo/2-3.jpg",
-            "../../images/photo/2-4.jpg",
-            "../../images/photo/2-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/2-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/2-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/2-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/2-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/2-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/jinjoo1224/",
         상세정보: `
@@ -49,15 +49,15 @@ const artist_data=[
         한글이름: "장영남",
         영어이름: "jang young nam",
         생년월일: "25 November 1973",
-        src1: "../../images/artist/main3.jpg",
-        src2: "../../images/artist/main3-1.jpg",
-        src3: "../../images/artist/web3.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main3.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main3-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web3.jpg",
         photo: [
-            "../../images/photo/3-1.jpg",
-            "../../images/photo/3-2.jpg",
-            "../../images/photo/3-3.jpg",
-            "../../images/photo/3-4.jpg",
-            "../../images/photo/3-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/3-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/3-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/3-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/3-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/3-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/andmarq_official/",
         상세정보: `
@@ -72,15 +72,15 @@ const artist_data=[
         한글이름: "김현수",
         영어이름: "kim hyeon soo",
         생년월일: "23 June 2000",
-        src1: "../../images/artist/main4.jpg",
-        src2: "../../images/artist/main4-1.jpg",
-        src3: "../../images/artist/web4.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main4.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main4-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web4.jpg",
         photo: [
-            "../../images/photo/4-1.jpg",
-            "../../images/photo/4-2.jpg",
-            "../../images/photo/4-3.jpg",
-            "../../images/photo/4-4.jpg",
-            "../../images/photo/4-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/4-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/4-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/4-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/4-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/4-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/hyeon0_0soo/",
         상세정보: `
@@ -95,15 +95,15 @@ const artist_data=[
         한글이름: "김아현",
         영어이름: "kim a hyun",
         생년월일: "30 May 1994",
-        src1: "../../images/artist/main5.jpg",
-        src2: "../../images/artist/main5-1.jpg",
-        src3: "../../images/artist/web5.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main5.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main5-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web5.jpg",
         photo: [
-            "../../images/photo/5-1.jpg",
-            "../../images/photo/5-2.jpg",
-            "../../images/photo/5-3.jpg",
-            "../../images/photo/5-4.jpg",
-            "../../images/photo/5-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/5-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/5-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/5-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/5-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/5-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/kim.a.hyun/",
         상세정보: `
@@ -118,15 +118,15 @@ const artist_data=[
         한글이름: "백진희",
         영어이름: "baek jin hee",
         생년월일: "08 february 1990",
-        src1: "../../images/artist/main6.jpg",
-        src2: "../../images/artist/main6-1.jpg",
-        src3: "../../images/artist/web6.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main6.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main6-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web6.jpg",
         photo: [
-            "../../images/photo/6-1.jpg",
-            "../../images/photo/6-2.jpg",
-            "../../images/photo/6-3.jpg",
-            "../../images/photo/6-4.jpg",
-            "../../images/photo/6-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/6-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/6-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/6-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/6-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/6-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/jinibeak/",
         상세정보: `
@@ -141,15 +141,15 @@ const artist_data=[
         한글이름: "예원",
         영어이름: "ye won",
         생년월일: "5 December 1989",
-        src1: "../../images/artist/main7.jpg",
-        src2: "../../images/artist/main7-1.jpg",
-        src3: "../../images/artist/web7.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main7.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main7-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web7.jpg",
         photo: [
-            "../../images/photo/7-1.jpg",
-            "../../images/photo/7-2.jpg",
-            "../../images/photo/7-3.jpg",
-            "../../images/photo/7-4.jpg",
-            "../../images/photo/7-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/7-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/7-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/7-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/7-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/7-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/yeeee_kk/",
         상세정보: `
@@ -164,15 +164,15 @@ const artist_data=[
         한글이름: "류덕환",
         영어이름: "ryu deok hwan",
         생년월일: "12 June 1987",
-        src1: "../../images/artist/main8.jpg",
-        src2: "../../images/artist/main8-1.jpg",
-        src3: "../../images/artist/web8.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main8.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main8-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web8.jpg",
         photo: [
-            "../../images/photo/8-1.jpg",
-            "../../images/photo/8-2.jpg",
-            "../../images/photo/8-3.jpg",
-            "../../images/photo/8-4.jpg",
-            "../../images/photo/8-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/8-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/8-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/8-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/8-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/8-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/Clownryu/",
         상세정보: `
@@ -187,15 +187,15 @@ const artist_data=[
         한글이름: "차유진",
         영어이름: "cha eu gene",
         생년월일: "5 April 2001",
-        src1: "../../images/artist/main9.jpg",
-        src2: "../../images/artist/main9-1.jpg",
-        src3: "../../images/artist/web9.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main9.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main9-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web9.jpg",
         photo: [
-            "../../images/photo/9-1.jpg",
-            "../../images/photo/9-2.jpg",
-            "../../images/photo/9-3.jpg",
-            "../../images/photo/9-4.jpg",
-            "../../images/photo/9-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/9-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/9-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/9-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/9-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/9-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/dbwlsxx/",
         상세정보: `
@@ -210,15 +210,15 @@ const artist_data=[
         한글이름: "한재이",
         영어이름: "han ja i",
         생년월일: "27 April 1991",
-        src1: "../../images/artist/main10.jpg",
-        src2: "../../images/artist/main10-1.jpg",
-        src3: "../../images/artist/web10.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main10.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main10-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web10.jpg",
         photo: [
-            "../../images/photo/10-1.jpg",
-            "../../images/photo/10-2.jpg",
-            "../../images/photo/10-3.jpg",
-            "../../images/photo/10-4.jpg",
-            "../../images/photo/10-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/10-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/10-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/10-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/10-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/10-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/jragoo_/",
         상세정보: `
@@ -233,15 +233,15 @@ const artist_data=[
         한글이름: "김혜준",
         영어이름: "kim hye jun",
         생년월일: "08 May 1995",
-        src1: "../../images/artist/main11.jpg",
-        src2: "../../images/artist/main11-1.jpg",
-        src3: "../../images/artist/web11.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main11.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main11-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web11.jpg",
         photo: [
-            "../../images/photo/11-1.jpg",
-            "../../images/photo/11-2.jpg",
-            "../../images/photo/11-3.jpg",
-            "../../images/photo/11-4.jpg",
-            "../../images/photo/11-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/11-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/11-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/11-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/11-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/11-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/hyello._.o/",
         상세정보: `
@@ -256,15 +256,15 @@ const artist_data=[
         한글이름: "신시아",
         영어이름: "shin si a",
         생년월일: "12 May 1998",
-        src1: "../../images/artist/main12.jpg",
-        src2: "../../images/artist/main12-1.jpg",
-        src3: "../../images/artist/web12.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main12.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main12-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web12.jpg",
         photo: [
-            "../../images/photo/12-1.jpg",
-            "../../images/photo/12-2.jpg",
-            "../../images/photo/12-3.jpg",
-            "../../images/photo/12-4.jpg",
-            "../../images/photo/12-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/12-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/12-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/12-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/12-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/12-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/shinsiaa_/",
         상세정보: `
@@ -279,15 +279,15 @@ const artist_data=[
         한글이름: "주세빈",
         영어이름: "joo se bin",
         생년월일: "9 Octover 1997",
-        src1: "../../images/artist/main13.jpg",
-        src2: "../../images/artist/main13-1.jpg",
-        src3: "../../images/artist/web13.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main13.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main13-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web13.jpg",
         photo: [
-            "../../images/photo/13-1.jpg",
-            "../../images/photo/13-2.jpg",
-            "../../images/photo/13-3.jpg",
-            "../../images/photo/13-4.jpg",
-            "../../images/photo/13-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/13-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/13-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/13-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/13-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/13-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/myongd97/",
         상세정보: `
@@ -302,15 +302,15 @@ const artist_data=[
         한글이름: "저스틴 하비",
         영어이름: "justin john harvey",
         생년월일: "27 March 1994",
-        src1: "../../images/artist/main14.jpg",
-        src2: "../../images/artist/main14-1.jpg",
-        src3: "../../images/artist/web14.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main14.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main14-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web14.jpg",
         photo: [
-            "../../images/photo/14-1.jpg",
-            "../../images/photo/14-2.jpg",
-            "../../images/photo/14-3.jpg",
-            "../../images/photo/14-4.jpg",
-            "../../images/photo/14-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/14-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/14-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/14-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/14-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/14-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/justin.relevance/",
         상세정보: `
@@ -325,15 +325,15 @@ const artist_data=[
         한글이름: "최준영",
         영어이름: "choi jun young",
         생년월일: "09 March 1988",
-        src1: "../../images/artist/main15.jpg",
-        src2: "../../images/artist/main15-1.jpg",
-        src3: "../../images/artist/web15.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main15.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main15-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web15.jpg",
         photo: [
-            "../../images/photo/15-1.jpg",
-            "../../images/photo/15-2.jpg",
-            "../../images/photo/15-3.jpg",
-            "../../images/photo/15-4.jpg",
-            "../../images/photo/15-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/15-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/15-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/15-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/15-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/15-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/andmarq_official/",
         상세정보: `
@@ -347,15 +347,15 @@ const artist_data=[
         한글이름: "정동훈",
         영어이름: "jeong dong hun",
         생년월일: "30 October 1990",
-        src1: "../../images/artist/main16.jpg",
-        src2: "../../images/artist/main16-1.jpg",
-        src3: "../../images/artist/web16.jpg",
+        src1: "https://so-dami.github.io/andmarq/images/artist/main16.jpg",
+        src2: "https://so-dami.github.io/andmarq/images/artist/main16-1.jpg",
+        src3: "https://so-dami.github.io/andmarq/images/artist/web16.jpg",
         photo: [
-            "../../images/photo/16-1.jpg",
-            "../../images/photo/16-2.jpg",
-            "../../images/photo/16-3.jpg",
-            "../../images/photo/16-4.jpg",
-            "../../images/photo/16-5.jpg"
+            "https://so-dami.github.io/andmarq/images/photo/16-1.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/16-2.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/16-3.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/16-4.jpg",
+            "https://so-dami.github.io/andmarq/images/photo/16-5.jpg"
         ],
         인스타그램: "https://www.instagram.com/andmarq_official/",
         상세정보: `

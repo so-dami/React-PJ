@@ -183,8 +183,8 @@ function Main() {
         <div>
           <div className="bgimg">
             {/* 배경 이미지 */}
-            <img src="images/artist/web1.jpg" alt="배우이미지" />
-            {/* <img src={artist_data[num].src3} alt={artist_data[num].한글이름} /> */}
+            {/* <img src="https://so-dami.github.io/andmarq/images/artist/web1.jpg" alt="배우이미지" /> */}
+            <img src={artist_data[num].src3} alt={artist_data[num].한글이름} />
 
             {/* 네모네모 */}
             <div className="sqwrap">
