@@ -3,7 +3,7 @@
 const studio_data = {
 
     서울대작전: [{
-        src : "../../images/studio/poster1.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster1.jpg",
         제목: "서울대작전",
         장르: "범죄 오락 카액션",
         감독: "문현성",
@@ -13,7 +13,7 @@ const studio_data = {
     }],
 
     우씨황후: [{
-        src : "../../images/studio/poster2.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster2.jpg",
         제목: "우씨 황후",
         장르: "추격 사극 액션",
         감독: "정세교",
@@ -23,7 +23,7 @@ const studio_data = {
     }],
 
     너트: [{
-        src : "../../images/studio/poster3.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster3.jpg",
         제목: "너트",
         장르: "하이스트 범죄 드라마",
         감독: "양인호",
@@ -33,7 +33,7 @@ const studio_data = {
     }],
 
     돈나킹받네: [{
-        src : "../../images/studio/poster4.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster4.jpg",
         제목: "돈나 킹받네",
         장르: "현실 공감 코믹 드라마",
         감독: "",
@@ -43,7 +43,7 @@ const studio_data = {
     }],
 
     소울메이트: [{
-        src : "../../images/studio/poster5.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster5.jpg",
         제목: "소울메이트",
         장르: "드라마",
         감독: "민용근",
@@ -53,7 +53,7 @@ const studio_data = {
     }],
 
     나성바이브: [{
-        src : "../../images/studio/poster6.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster6.jpg",
         제목: "나성바이브",
         장르: "범죄 액션 드라마",
         감독: "",
@@ -63,7 +63,7 @@ const studio_data = {
     }],
 
     심플를랜: [{
-        src : "../../images/studio/poster7.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster7.jpg",
         제목: "심플를랜",
         장르: "범죄 로망스",
         감독: "이후경",
@@ -73,7 +73,7 @@ const studio_data = {
     }],
 
     보호소년: [{
-        src : "../../images/studio/poster8.jpg",
+        src : "https://so-dami.github.io/andmarq/images/studio/poster8.jpg",
         제목: "보호소년",
         장르: "휴먼 드라마",
         감독: "",
@@ -83,7 +83,7 @@ const studio_data = {
     }],
 
     // 걷기왕: [{
-    //     src : "../../images/studio/poster9.jpg",
+    //     src : "https://so-dami.github.io/andmarq/images/studio/poster9.jpg",
     //     제목: "걷기왕",
     //     장르: "드라마",
     //     감독: "백승화",
