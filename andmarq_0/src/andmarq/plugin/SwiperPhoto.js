@@ -14,35 +14,26 @@ import './swiperphoto.css';
 // import required modules
 import { EffectFade, Navigation, Pagination } from 'swiper/modules';
 
-
-
-
 // 제이쿼리 넣기
 import $ from 'jquery';
 
-import { useParams } from "react-router-dom";
+import { useParams } from 'react-router-dom';
 
+function SwiperPhoto(props) {
+  const [q, setQ] = useState(props.num);
 
+  let pdata = props.data;
+  let num = props.num;
 
-function SwiperPhoto(props){
+  let a = pdata[q]['photo'];
 
+  useEffect(() => {
+    console.log(a);
+  }, [num]);
 
-    const [q , setQ] = useState(props.num);
-
-    let pdata = props.data;
-    let num = props.num;
-
-
-
-    let a = pdata[q]['photo']
-
-    useEffect(()=>{
-        console.log(a)
-    },[num])
-
-    return (
-        <>
-                {/* <Swiper
+  return (
+    <>
+      {/* <Swiper
                 pagination={{type: "progressbar"}}
                 navigation={true}
                 modules={[pagination, navigation]}
@@ -58,28 +49,25 @@ function SwiperPhoto(props){
                     }
                     
                 </Swiper> */}
-                <Swiper
-                spaceBetween={30}
-                effect={'fade'}
-                navigation={true}
-                pagination={{
-                clickable: true,
-                }}
-                modules={[EffectFade, Navigation, Pagination]}
-                className="mySwiper">
-                <div>안녕하세요</div>
-                {
-                    a.map((x,i)=>
-                <SwiperSlide>
-                <img src={x} alt="사진"/>
-                </SwiperSlide>
-                    )
-                }
-            </Swiper>
-                
-        </>
-    );
-  
+      <Swiper
+        spaceBetween={30}
+        effect={'fade'}
+        navigation={true}
+        pagination={{
+          clickable: true,
+        }}
+        modules={[EffectFade, Navigation, Pagination]}
+        className="mySwiper"
+      >
+        <div>안녕하세요</div>
+        {a.map((x, i) => (
+          <SwiperSlide>
+            <img src={x} alt="사진" />
+          </SwiperSlide>
+        ))}
+      </Swiper>
+    </>
+  );
 }
 
 export default SwiperPhoto;
